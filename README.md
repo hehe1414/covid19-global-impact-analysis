@@ -77,4 +77,6 @@ The project includes four charts:
 This project provides a comparative analysis of the COVID-19 pandemic in India, the United States, and the United Kingdom. It uses data analysis and visualisation techniques to identify trends and understand the differences in the pandemic's impact.
 
 **Note:** The analysis uses historical reported data available through 14 August 2024. Missing values and reporting differences may affect comparisons.
-Note: The cleaned dataset is not included in this repository because of its file size. It can be recreated by downloading the original dataset from the Our World in Data source
+
+
+**Note:** The cleaned dataset is not included in this repository because of its file size. It can be recreated by downloading the original dataset from the Our World in Data source
